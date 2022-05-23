@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![View's GitHub stats](https://github-readme-stats.vercel.app/api?username=View12138&show_icons=true&count_private=true&title=asd&title_color=58A6FF&text_color=C9D1D9&icon_color=238636&border_color=30363D&bg_color=0D1117&hide_border=false&locale=cn&border_radius=6&include_all_commits=true)
+<!--dark status-->
+<a href="https://github.com/View12138#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=View12138&show_icons=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=238636&border_color=30363D&bg_color=0D1117&hide_border=false&locale=cn&border_radius=6&include_all_commits=true#gh-dark-mode-only" alt="View's GitHub stats" />
+</a>
+<!--light status-->
+<a href="https://github.com/View12138#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=View12138&show_icons=true&count_private=true&title_color=0969DA&text_color=57606A&icon_color=1A7F37&border_color=D0D7DE&bg_color=FFFFFF&hide_border=false&locale=cn&border_radius=6&include_all_commits=true#gh-dark-mode-only" alt="View's GitHub stats" />
+</a>
