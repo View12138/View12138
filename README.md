@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **View12138/View12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![View's GitHub stats](https://github-readme-stats.vercel.app/api?username=View12138&show_icons=true&count_private=true&title=asd&title_color=58A6FF&text_color=C9D1D9&icon_color=238636&border_color=30363D&bg_color=0D1117&hide_border=false&locale=cn&border_radius=6&include_all_commits=true)
